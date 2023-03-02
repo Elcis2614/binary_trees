@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
  * binary_tree_preorder - traverses the tre in pre-order
- * @tree: the root 
+ * @tree: the root
  * @func: function to print a single node value
  */
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
