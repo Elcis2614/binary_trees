@@ -1,4 +1,4 @@
-#include "binary_treees.h"
+#include "binary_trees.h"
 /**
  * binary_tree_inorder - traverses the tree in order
  * @tree: the root
